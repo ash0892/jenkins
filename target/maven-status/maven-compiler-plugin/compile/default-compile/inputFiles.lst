@@ -1,9 +1,0 @@
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/DatabaseServiceProjectApplication.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/security/LoggingAccessDeniedHandler.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/beans/BoardGame.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/controllers/HomeController.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/security/SecurityConfig.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/beans/ErrorMessage.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/controllers/BoardGameController.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/database/DatabaseAccess.java
-/home/ubuntu/mavenproject/BoardgameListingWebApp/src/main/java/com/javaproject/beans/Review.java
